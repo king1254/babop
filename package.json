@@ -2,6 +2,9 @@
   "name": "shopit",
   "version": "1.0.0",
   "description": "full ecommerce site using mern",
+    "engines": {
+    "node": "18.x"
+  },
   "main": "server.js",
   "scripts": {
     "start": "SET node backend/server.js",
